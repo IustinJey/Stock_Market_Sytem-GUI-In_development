@@ -2,7 +2,7 @@
 
 The stock market system developed in C# is an application that allows users to manage and track stocks and transactions on a stock exchange. Users can add new stocks to the system and view their current prices, add transactions to buy or sell stocks, and view a chart that displays the stock prices over time. The design is inspired by Binance
 
-Technologies used:
+# Technologies used:
 - C#
 - .NET Framework
 - SQL
