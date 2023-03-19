@@ -1,0 +1,13 @@
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.Form1.resources
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.addStockForm.resources
+C:\Users\Alina\Desktop\SGBD\LAB\LAB1\StockMarket\StockMarket\obj\Debug\StockMarket.addTrade.resources
